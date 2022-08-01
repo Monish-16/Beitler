@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'BeitlerLMS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBA21F68DD6B4699A62DC0B096D1A36C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54E3733FB5EC490C832F3BFF01810778 }}
           package: .
