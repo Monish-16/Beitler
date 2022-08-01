@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ReactBeitler'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A12ADBB0BB58408A8CF4E8A92504FDDC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9510A90ADC1440D190287782220F016B }}
           package: .
